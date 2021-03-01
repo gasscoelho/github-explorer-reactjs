@@ -1,6 +1,6 @@
 # GoStack | Github Explorer
 
-> A web application developed at the Bootcamp GoStack that uses the GitHub API to show repositories info.
+> A web application developed at the GoStack Bootcamp that uses the GitHub API to show repositories info.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7d12ae47-1768-40ab-812e-0a67c94e2a56/deploy-status)](https://app.netlify.com/sites/elated-jackson-14dab8/deploys)
 
