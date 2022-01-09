@@ -1,8 +1,10 @@
-# GoStack | Github Explorer
+# Github Explorer
 
-> A web application developed at the GoStack Bootcamp that uses the GitHub API to show repositories info.
+A web application developed at the GoStack Bootcamp that uses the GitHub API to show repositories info.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7d12ae47-1768-40ab-812e-0a67c94e2a56/deploy-status)](https://app.netlify.com/sites/elated-jackson-14dab8/deploys)
+
+## Demo
 
 ![](.github/images/github-explorer-v1.png)
 
@@ -10,33 +12,31 @@
 
 ![](.github/images/github-explorer-v2.png)
 
-# Getting Started
+## Get Started
 
 Follow the steps below to properly run this application.
 
-### `1. git clone <repository_url>`
+#### Clone the repository:
 
-Clone the repository using the following command: <br />
-`git clone https://github.com/gasscoelho/github-explorer-reactjs.git`
+```bash
+git clone https://github.com/gasscoelho/github-explorer-reactjs.git
+```
 
-After that, you can open the project using an editor of your preference.
+```bash
+cd github-explorer-reactjs
+```
 
----
+#### Start the application:
 
-### `2. yarn`
+```bash
+yarn install
+```
 
-Install the project dependencies.
+```bash
+yarn start
+```
 
-If you are using NPM then run `npm install`
-
----
-
-### `3. yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-If you are using NPM then run `npm start`
+*You can also use NPM instead of YARN to install the dependencies and start the application.*
 
 ## Built With
 
@@ -47,4 +47,4 @@ If you are using NPM then run `npm start`
 
 ## Author
 
-**Gabriel Coelho** - Full Stack Developer
+**[Gabriel Coelho](https://gasscoelho.me/en)** - Software Engineer
